@@ -1,28 +1,40 @@
-name: Paula Manacas
-favicon: null
-layout_spectrum: 0.22297309036366642
-typography_spectrum: 0.3398166948463768
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.07997379428707063
-  lightness: 0.9923388473689556
-  saturation: 0.9541999262291938
-  rhythmicContrast: 0.14897958398796618
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4623656
+  brandStrength: 0.109319
+  lightness: 0.9923388
+  brandColors:
+    - '#FEFEFE'
+    - '#016DA4'
+    - '#0BBFDF'
+    - '#2F7678'
+    - '#0D2727'
+  rhythmicContrast: 0.2043011
+typography_spectrum: 0.3398166948463768
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9050179
+favicon: null
+name: Paula Manacas

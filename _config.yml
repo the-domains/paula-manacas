@@ -1,0 +1,28 @@
+name: Paula Manacas
+favicon: null
+layout_spectrum: 0.22297309036366642
+typography_spectrum: 0.3398166948463768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07997379428707063
+  lightness: 0.9923388473689556
+  saturation: 0.9541999262291938
+  rhythmicContrast: 0.14897958398796618
+purpose: []
